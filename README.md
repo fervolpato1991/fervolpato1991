@@ -6,7 +6,7 @@
 * He completado exitosamente el programa de formación intensiva en desarrollo de software en el Bootcamp HENRY, donde he adquirido una amplia gama de habilidades tanto técnicas como sociales, al trabajar de manera colaborativa con otros profesionales del campo.
 
 ## Conocimientos 🖥️:
-* [![HTMLl5][html5]][html-url][![CSS3][css3]][css-url]![Javascript][javascript]
+* [![HTMLl5][html5]][html-url][![CSS3][css3]][css-url][![javascript][javascript]][js-url]
 * [![React][React.js]][React-url][![Redux][Redux-query]][Redux-url][![Tailwind][Tailwind-css]][Tailwind-url]
 * [![postgresql][PostgreSQL]][postgresql-url][![sequelize][Sequelize]][sequelize-url]
 * [![Express][Express.js]][express-url][![Node][Node.js]][Node-url][![NPM][npm]][npm-url]
